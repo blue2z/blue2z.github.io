@@ -1,0 +1,43 @@
+body {
+background: #33ffff;
+}
+
+h2 {
+color: blue;
+font-family: 'Fresca', sans-serif;
+}
+
+h1 {
+color:blue;
+font-family: 'Fresca', sans-serif;
+}
+
+p {
+color:blue
+font-family: 'Fresca', sans-serif;
+}
+
+img{
+display:block;
+width:600px
+}
+
+#header{
+background: white;
+width:700px;
+padding-left: 20px;
+padding-bottom: 5px;
+border-radius: 25px;
+}
+
+#main{
+background: purple;
+width: 675px;
+padding-left: 20px;
+padding-top: 15px;
+padding-bottom: 15px;
+margin-top: 15px;
+margin-left: 10px;
+border-radius: 25px;
+}
+
